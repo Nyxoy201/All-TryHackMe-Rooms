@@ -3,3 +3,5 @@ A repository that contains files listing all tryhackme rooms classified by type,
 
 Last Edit Date : 03/07/24
 
+**Stats :**
+Rooms : 
