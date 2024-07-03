@@ -22,6 +22,7 @@ Premium CTF Rooms : 49
 Walkthrought Rooms : 458
 Free Walkthrought Rooms : 261
 Premium Walkthrought Rooms : 197
+
 ----------------------------------------
 
 Happy Hacking <3
