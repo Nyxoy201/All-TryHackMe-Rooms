@@ -1,0 +1,87 @@
+Total Rooms : 12
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/deadend
+Description : You're given a memory image and a disk image - help us find the flag!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/tryhack3mencryptionchallenge
+Description : Reach the apex of this triple-crypto challenge!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/burg3rbytes
+Description : They say these burgers are worth every penny. Can you buy one?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/elbandito
+Description : Can you help capture El Bandito before he leaves the galaxy?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/exfilibur
+Description : You’ve been asked to exploit all the vulnerabilities present.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/fearsecond
+Description : You Shall Fear The Second Order.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/temple
+Description : Can you gain access to the temple?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/ra2
+Description : Just when they thought their hashes were safe... Ra 2 - The sequel!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/set
+Description : Once again you find yourself on the internal network of the Windcorp Corporation.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/tempusfugitdurius
+Description : The latin word Durius means "harder"
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 11:
+URL : https://tryhackme.com/r/room/jack
+Description : Compromise a web server running Wordpress, obtain a low privileged user and escalate your privileges to root using a Python module.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 12:
+URL : https://tryhackme.com/r/room/jurassicpark
+Description : A Jurassic Park CTF
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------

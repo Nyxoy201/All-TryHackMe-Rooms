@@ -1,0 +1,332 @@
+Total Rooms : 47
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/capturereturns
+Description : The developers have improved their login form since last time. Can you bypass it?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/http2requestsmuggling
+Description : Exploit HTTP Request Smuggling in HTTP/2 environments.
+Difficulty : Hard
+Access : Free
+Type : Walkthrough
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/chrome
+Description : Let us place all of our trust in a password manager.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/resetui
+Description : This challenge simulates a cyber-attack scenario where you must exploit an Active Directory environment.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/surfingyetiiscomingtotown
+Description : The Bandit Yeti is surfing to town.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/adv3nt0fdbopsjcap
+Description : The Yeti needs a plan for 2023. Help him out!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/seasurfer
+Description : Ride the Wave!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/plottedlms
+Description : Everything here is plotted!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/hackinghadoop
+Description : Learning about the security failings commonly seen in Hadoop
+Difficulty : Hard
+Access : Free
+Type : Walkthrough
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/plottedemr
+Description : Everything here is plotted!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 11:
+URL : https://tryhackme.com/r/room/shaker
+Description : One of our devs has been experimenting with webservers and wants to see if his security is up to snuff. Rumour has it he updated all his dependencies, but did something fall through the cracks?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 12:
+URL : https://tryhackme.com/r/room/squidgameroom
+Description : 오징어 게임
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 13:
+URL : https://tryhackme.com/r/room/uranium
+Description : Uranium CTF
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 14:
+URL : https://tryhackme.com/r/room/gamebuzz
+Description : Part of Incognito CTF
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 15:
+URL : https://tryhackme.com/r/room/rocket
+Description : Get ready for blast off!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 16:
+URL : https://tryhackme.com/r/room/fusioncorp
+Description : Fusion Corp said they got everything patched... did they?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 17:
+URL : https://tryhackme.com/r/room/yearofthejellyfish
+Description : Some boxes sting...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 18:
+URL : https://tryhackme.com/r/room/m4tr1xexitdenied
+Description : Free your mind. Exit from the M4tr1x...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 19:
+URL : https://tryhackme.com/r/room/adana
+Description : interesting room, you can shoot the sun
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 20:
+URL : https://tryhackme.com/r/room/enterprise
+Description : You just landed in an internal network. You scan the network and there's only the Domain Controller...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 21:
+URL : https://tryhackme.com/r/room/reloaded
+Description : This room is dedicated for the RE challenges, each challenge has unique concepts divided in each binaries. As if now only phase 1 is added will decide about phase 2 on response. Developed by WhiteHeart and tested by IslaMukheef
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 22:
+URL : https://tryhackme.com/r/room/enterprize
+Description : Can you hack your way in?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 23:
+URL : https://tryhackme.com/r/room/envizon
+Description : Attacking the pentesters
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 24:
+URL : https://tryhackme.com/r/room/yearoftheowl
+Description : The foolish owl sits on his throne...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 25:
+URL : https://tryhackme.com/r/room/yearofthedog
+Description : Always so polite...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 26:
+URL : https://tryhackme.com/r/room/misguidedghosts
+Description : Collaboration between Jake and Blob!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 27:
+URL : https://tryhackme.com/r/room/yearofthepig
+Description : Some pigs do fly...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 28:
+URL : https://tryhackme.com/r/room/motunui
+Description : Hack the island of Motunui.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 29:
+URL : https://tryhackme.com/r/room/forbusinessreasons
+Description : In your network scan, you found an unknown VM....
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 30:
+URL : https://tryhackme.com/r/room/internal
+Description : Penetration Testing Challenge
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 31:
+URL : https://tryhackme.com/r/room/spring
+Description : Can you hack your way in to a Hello World application?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 32:
+URL : https://tryhackme.com/r/room/anonymousplayground
+Description : Want to become part of Anonymous? They have a challenge for you. Can you get the flags and become an operative?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 33:
+URL : https://tryhackme.com/r/room/ra
+Description : You have found WindCorp's internal network and their Domain Controller. Can you pwn their network?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 34:
+URL : https://tryhackme.com/r/room/davesblog
+Description : My friend Dave made his own blog!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 35:
+URL : https://tryhackme.com/r/room/yotf
+Description : Don't underestimate the sly old fox...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 36:
+URL : https://tryhackme.com/r/room/carpediem1
+Description : Recover your clients encrypted files before the ransomware timer runs out!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 37:
+URL : https://tryhackme.com/r/room/pythonplayground
+Description : Be creative!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 38:
+URL : https://tryhackme.com/r/room/racetrackbank
+Description : It's time for another heist.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 39:
+URL : https://tryhackme.com/r/room/ironcorp
+Description : Can you get access to Iron Corp's system?
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 40:
+URL : https://tryhackme.com/r/room/brainpan
+Description : Reverse engineer a Windows executable, find a buffer overflow and exploit it on a Linux machine.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 41:
+URL : https://tryhackme.com/r/room/cherryblossom
+Description : Boot-to-root with emphasis on crypto and password cracking.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 42:
+URL : https://tryhackme.com/r/room/dailybugle
+Description : Compromise a Joomla CMS account via SQLi, practise cracking hashes and escalate your privileges by taking advantage of yum.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 43:
+URL : https://tryhackme.com/r/room/retro
+Description : New high score!
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 44:
+URL : https://tryhackme.com/r/room/hc0nchristmasctf
+Description : hackt the planet
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 45:
+URL : https://tryhackme.com/r/room/borderlands
+Description : Compromise a perimeter host and pivot through this network.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 46:
+URL : https://tryhackme.com/r/room/adventuretime
+Description : A CTF based challenge to get your blood pumping...
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 47:
+URL : https://tryhackme.com/r/room/forensics
+Description : This is a memory dump of compromised system, do some forensics kung-fu to explore the inside.
+Difficulty : Hard
+Access : Free
+Type : Challenge
+----------------------------------------

@@ -1,0 +1,73 @@
+Total Rooms : 10
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/requestsmugglingbrowserdesync
+Description : Learn about Request Smuggling Browser Desync.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/http2requestsmuggling
+Description : Exploit HTTP Request Smuggling in HTTP/2 environments.
+Difficulty : Hard
+Access : Free
+Type : Walkthrough
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/caldera
+Description : Leveraging CALDERA to emulate various adversarial activities for detection capability testing.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/dataxexfilt
+Description : An introduction to Data Exfiltration and Tunneling techniques over various protocols.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/sandboxevasion
+Description : Learn about active defense mechanisms Blue Teamers can deploy to identify adversaries in their environment.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/abusingwindowsinternals
+Description : Leverage windows internals components to evade common detection solutions, using modern tool-agnostic approaches.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/runtimedetectionevasion
+Description : Learn how to bypass common runtime detection measures, such as AMSI, using modern tool-agnostic approaches.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/hackinghadoop
+Description : Learning about the security failings commonly seen in Hadoop
+Difficulty : Hard
+Access : Free
+Type : Walkthrough
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/passwordattacks
+Description : This room introduces the fundamental techniques to perform a successful password attack against various services and scenarios.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/zer0logon
+Description : Learn about and exploit the ZeroLogon vulnerability that allows an attacker to go from Zero to Domain Admin without any valid credentials.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------

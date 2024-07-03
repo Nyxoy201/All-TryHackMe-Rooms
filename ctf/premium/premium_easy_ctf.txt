@@ -1,0 +1,73 @@
+Total Rooms : 10
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/summit
+Description : Can you chase a simulated adversary up the Pyramid of Pain until they finally back down?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/codeanalysis
+Description : Exploit flaws found in Mother's code to reveal its secrets.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/expose
+Description : Use your red teaming knowledge to pwn a Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/disgruntled
+Description : Use your Linux forensics knowledge to investigate an incident.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/phishingemails5fgjlzxc
+Description : Use the knowledge attained to analyze a malicious email.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/vulnerabilitycapstone
+Description : Apply the knowledge gained throughout the Vulnerability Module in this challenge room.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/res
+Description : Hack into a vulnerable database server with an in-memory data-structure in this semi-guided challenge!
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/skynet
+Description : A vulnerable Terminator themed Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/toolsrus
+Description : Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/heartbleed
+Description : SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------

@@ -1,0 +1,143 @@
+Total Rooms : 20
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/deadend
+Description : You're given a memory image and a disk image - help us find the flag!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/tryhack3mencryptionchallenge
+Description : Reach the apex of this triple-crypto challenge!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/burg3rbytes
+Description : They say these burgers are worth every penny. Can you buy one?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/elbandito
+Description : Can you help capture El Bandito before he leaves the galaxy?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/requestsmugglingbrowserdesync
+Description : Learn about Request Smuggling Browser Desync.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/exfilibur
+Description : You’ve been asked to exploit all the vulnerabilities present.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/caldera
+Description : Leveraging CALDERA to emulate various adversarial activities for detection capability testing.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/fearsecond
+Description : You Shall Fear The Second Order.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/dataxexfilt
+Description : An introduction to Data Exfiltration and Tunneling techniques over various protocols.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/sandboxevasion
+Description : Learn about active defense mechanisms Blue Teamers can deploy to identify adversaries in their environment.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 11:
+URL : https://tryhackme.com/r/room/abusingwindowsinternals
+Description : Leverage windows internals components to evade common detection solutions, using modern tool-agnostic approaches.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 12:
+URL : https://tryhackme.com/r/room/runtimedetectionevasion
+Description : Learn how to bypass common runtime detection measures, such as AMSI, using modern tool-agnostic approaches.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 13:
+URL : https://tryhackme.com/r/room/passwordattacks
+Description : This room introduces the fundamental techniques to perform a successful password attack against various services and scenarios.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 14:
+URL : https://tryhackme.com/r/room/temple
+Description : Can you gain access to the temple?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 15:
+URL : https://tryhackme.com/r/room/zer0logon
+Description : Learn about and exploit the ZeroLogon vulnerability that allows an attacker to go from Zero to Domain Admin without any valid credentials.
+Difficulty : Hard
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 16:
+URL : https://tryhackme.com/r/room/ra2
+Description : Just when they thought their hashes were safe... Ra 2 - The sequel!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 17:
+URL : https://tryhackme.com/r/room/set
+Description : Once again you find yourself on the internal network of the Windcorp Corporation.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 18:
+URL : https://tryhackme.com/r/room/tempusfugitdurius
+Description : The latin word Durius means "harder"
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 19:
+URL : https://tryhackme.com/r/room/jack
+Description : Compromise a web server running Wordpress, obtain a low privileged user and escalate your privileges to root using a Python module.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 20:
+URL : https://tryhackme.com/r/room/jurassicpark
+Description : A Jurassic Park CTF
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------

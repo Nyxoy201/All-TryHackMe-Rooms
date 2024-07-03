@@ -1,0 +1,10 @@
+Total Rooms : 1
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/osiris
+Description : Can you Quack it?
+Difficulty : Insane
+Access : Premium
+Type : Challenge
+----------------------------------------

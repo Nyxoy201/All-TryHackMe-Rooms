@@ -1,0 +1,843 @@
+Total Rooms : 120
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/publisher
+Description : Test your enumeration skills on this boot-to-root machine.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/w1seguy
+Description : A w1se guy 0nce said, the answer is usually as plain as day.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/mkingdom
+Description : Beginner-friendly box inspired by a certain mustache man.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/cyberlensp6
+Description : Can you exploit the CyberLens web server and discover the hidden flags?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/tryhack3mbricksheist
+Description : Crack the code, command the exploit! Dive into the heart of the system with just an RCE CVE as your key.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/creative
+Description : Exploit a vulnerable web application and some misconfigurations to gain root privileges.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/summit
+Description : Can you chase a simulated adversary up the Pyramid of Pain until they finally back down?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/dreaming
+Description : Solve the riddle that dreams have woven.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/hijack
+Description : Misconfigs conquered, identities claimed.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/compiled
+Description : Strings can only help you so far.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 11:
+URL : https://tryhackme.com/r/room/codeanalysis
+Description : Exploit flaws found in Mother's code to reveal its secrets.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 12:
+URL : https://tryhackme.com/r/room/expose
+Description : Use your red teaming knowledge to pwn a Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 13:
+URL : https://tryhackme.com/r/room/lessonlearned
+Description : Have you learned your lesson?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 14:
+URL : https://tryhackme.com/r/room/greprtp
+Description : A challenge that tests your reconnaissance and OSINT skills.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 15:
+URL : https://tryhackme.com/r/room/redisl33t
+Description : A classic battle for the ages.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 16:
+URL : https://tryhackme.com/r/room/snappedphishingline
+Description : Apply learned skills to probe malicious emails and URLs, exposing a vast phishing campaign.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 17:
+URL : https://tryhackme.com/r/room/catpictures2
+Description : Now with more Cat Pictures!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 18:
+URL : https://tryhackme.com/r/room/flip
+Description : Hey, do a flip!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 19:
+URL : https://tryhackme.com/r/room/valleype
+Description : Can you find your way into the Valley?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 20:
+URL : https://tryhackme.com/r/room/capture
+Description : Can you bypass the login form?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 21:
+URL : https://tryhackme.com/r/room/opacity
+Description : Opacity is a Boot2Root made for pentesters and cybersecurity enthusiasts.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 22:
+URL : https://tryhackme.com/r/room/disgruntled
+Description : Use your Linux forensics knowledge to investigate an incident.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 23:
+URL : https://tryhackme.com/r/room/lookback
+Description : You’ve been asked to run a vulnerability test on a production environment.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 24:
+URL : https://tryhackme.com/r/room/bugged
+Description : John likes to live in a very Internet connected world. Maybe too connected...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 25:
+URL : https://tryhackme.com/r/room/md2pdf
+Description : TopTierConversions LTD is proud to present its latest product launch.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 26:
+URL : https://tryhackme.com/r/room/takeover
+Description : This challenge revolves around subdomain enumeration.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 27:
+URL : https://tryhackme.com/r/room/neighbour
+Description : Check out our new cloud service, Authentication Anywhere. Can you find other user's secrets?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 28:
+URL : https://tryhackme.com/r/room/epoch
+Description : Be honest, you have always wanted an online tool that could help you convert UNIX dates and timestamps!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 29:
+URL : https://tryhackme.com/r/room/printnightmarec2bn7l
+Description : Search the artifacts on the endpoint to determine if the employee used any of the Windows Printer Spooler vulnerabilities to elevate their privileges.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 30:
+URL : https://tryhackme.com/r/room/surfer
+Description : Surf some internal webpages to find the flag!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 31:
+URL : https://tryhackme.com/r/room/corridor
+Description : Can you escape the Corridor?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 32:
+URL : https://tryhackme.com/r/room/intermediatenmap
+Description : Can you combine your great nmap skills with other tools to log in to this machine?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 33:
+URL : https://tryhackme.com/r/room/b3dr0ck
+Description : Server trouble in Bedrock.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 34:
+URL : https://tryhackme.com/r/room/confidential
+Description : We got our hands on a confidential case file from some self-declared "black hat hackers"... it looks like they have a secret invite code.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 35:
+URL : https://tryhackme.com/r/room/hackervshacker
+Description : Someone has compromised this server already! Can you get in and evade their countermeasures?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 36:
+URL : https://tryhackme.com/r/room/agentt
+Description : Something seems a little off with the server.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 37:
+URL : https://tryhackme.com/r/room/committed
+Description : One of our developers accidentally committed some sensitive code to our GitHub repository. Well, at least, that is what they told us...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 38:
+URL : https://tryhackme.com/r/room/mrphisher
+Description : I received a suspicious email with a very weird looking attachment. It keeps on asking me to "enable macros". What are those?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 39:
+URL : https://tryhackme.com/r/room/cyberheroes
+Description : Want to be a part of the elite club of CyberHeroes? Prove your merit by finding a way to log in!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 40:
+URL : https://tryhackme.com/r/room/digdug
+Description : Turns out this machine is a DNS server - it's time to get your shovels out!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 41:
+URL : https://tryhackme.com/r/room/techsupp0rt1
+Description : Hack into the scammer's under-development website to foil their plans.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 42:
+URL : https://tryhackme.com/r/room/0x41haz
+Description : Simple Reversing Challenge
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 43:
+URL : https://tryhackme.com/r/room/flatline
+Description : How low are your morals?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 44:
+URL : https://tryhackme.com/r/room/plottedtms
+Description : Everything here is plotted!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 45:
+URL : https://tryhackme.com/r/room/gallery666
+Description : Try to exploit our image gallery system
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 46:
+URL : https://tryhackme.com/r/room/dearqa
+Description : Are you able to solve this challenge involving reverse engineering and exploit development?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 47:
+URL : https://tryhackme.com/r/room/phishingemails5fgjlzxc
+Description : Use the knowledge attained to analyze a malicious email.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 48:
+URL : https://tryhackme.com/r/room/ide
+Description : An easy box to polish your enumeration skills!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 49:
+URL : https://tryhackme.com/r/room/jason
+Description : In JavaScript everything is a terrible mistake.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 50:
+URL : https://tryhackme.com/r/room/vulnerabilitycapstone
+Description : Apply the knowledge gained throughout the Vulnerability Module in this challenge room.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 51:
+URL : https://tryhackme.com/r/room/wordpresscve202129447
+Description : Vulnerability allow a authenticated user whith low privilages upload a malicious WAV file that could lead to remote arbitrary file disclosure and server-side request forgery (SSRF).
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 52:
+URL : https://tryhackme.com/r/room/couch
+Description : Hack into a vulnerable database server that collects and stores data in JSON-based document formats, in this semi-guided challenge.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 53:
+URL : https://tryhackme.com/r/room/juicydetails
+Description : A popular juice shop has been breached! Analyze the logs to see what had happened...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 54:
+URL : https://tryhackme.com/r/room/mustacchio
+Description : Easy boot2root Machine
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 55:
+URL : https://tryhackme.com/r/room/catpictures
+Description : I made a forum where you can post cute cat pictures!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 56:
+URL : https://tryhackme.com/r/room/vulnnetroasted
+Description : VulnNet Entertainment quickly deployed another management instance on their very broad network...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 57:
+URL : https://tryhackme.com/r/room/vulnnetinternal
+Description : VulnNet Entertainment learns from its mistakes, and now they have something new for you...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 58:
+URL : https://tryhackme.com/r/room/sakura
+Description : Use a variety of OSINT techniques to solve this room created by the OSINT Dojo.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 59:
+URL : https://tryhackme.com/r/room/memoryforensics
+Description : Perform memory forensics to find the flags
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 60:
+URL : https://tryhackme.com/r/room/glitch
+Description : Challenge showcasing a web app and simple privilege escalation. Can you find the glitch?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 61:
+URL : https://tryhackme.com/r/room/vulnnetnode
+Description : After the previous breach, VulnNet Entertainment states it won't happen again. Can you prove they're wrong?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 62:
+URL : https://tryhackme.com/r/room/h4cked
+Description : Find out what happened by analysing a .pcap file and hack your way back into the machine
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 63:
+URL : https://tryhackme.com/r/room/teamcw
+Description : Beginner friendly boot2root machine
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 64:
+URL : https://tryhackme.com/r/room/jpgchat
+Description : Exploiting poorly made custom chatting service written in a certain language...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 65:
+URL : https://tryhackme.com/r/room/magician
+Description : This magical website lets you convert image file formats
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 66:
+URL : https://tryhackme.com/r/room/webosint
+Description : Conducting basic open source intelligence research on a website
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 67:
+URL : https://tryhackme.com/r/room/archangel
+Description : Boot2root, Web exploitation, Privilege escalation, LFI
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 68:
+URL : https://tryhackme.com/r/room/cyborgt8
+Description : A box involving encrypted archives, source code analysis and more.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 69:
+URL : https://tryhackme.com/r/room/chocolatefactory
+Description : A Charlie And The Chocolate Factory themed room, revisit Willy Wonka's chocolate factory!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 70:
+URL : https://tryhackme.com/r/room/colddboxeasy
+Description : An easy level machine with multiple ways to escalate privileges. By Hixec.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 71:
+URL : https://tryhackme.com/r/room/searchlightosint
+Description : OSINT challenges in the imagery intelligence category
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 72:
+URL : https://tryhackme.com/r/room/allinonemj
+Description : This is a fun box where you will get to exploit the system in several ways. Few intended and unintended paths to getting user and root access.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 73:
+URL : https://tryhackme.com/r/room/chillhack
+Description : 
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 74:
+URL : https://tryhackme.com/r/room/startup
+Description : Abuse traditional vulnerabilities via untraditional means.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 75:
+URL : https://tryhackme.com/r/room/bruteit
+Description : Learn how to brute, hash cracking and escalate privileges in this box!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 76:
+URL : https://tryhackme.com/r/room/res
+Description : Hack into a vulnerable database server with an in-memory data-structure in this semi-guided challenge!
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 77:
+URL : https://tryhackme.com/r/room/poster
+Description : The sys admin set up a rdbms in a safe way.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 78:
+URL : https://tryhackme.com/r/room/rrootme
+Description : A ctf for beginners, can you root me?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 79:
+URL : https://tryhackme.com/r/room/gamingserver
+Description : An Easy Boot2Root box for beginners
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 80:
+URL : https://tryhackme.com/r/room/kiba
+Description : Identify the critical security flaw in the data visualization dashboard, that allows execute remote code execution.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 81:
+URL : https://tryhackme.com/r/room/githappens
+Description : Boss wanted me to create a prototype, so here it is! We even used something called "version control" that made deploying this really easy!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 82:
+URL : https://tryhackme.com/r/room/pokemon
+Description : This room is based on the original Pokemon series. Can you obtain all the Pokemon in this room?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 83:
+URL : https://tryhackme.com/r/room/easypeasyctf
+Description : Practice using tools such as Nmap and GoBuster to locate a hidden directory to get initial access to a vulnerable machine. Then escalate your privileges through a vulnerable cronjob.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 84:
+URL : https://tryhackme.com/r/room/cowboyhacker
+Description : You talked a big game about being the most elite hacker in the solar system. Prove it and claim your right to the status of Elite Bounty Hacker!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 85:
+URL : https://tryhackme.com/r/room/smaggrotto
+Description : Follow the yellow brick road.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 86:
+URL : https://tryhackme.com/r/room/brooklynninenine
+Description : This room is aimed for beginner level hackers but anyone can try to hack this box. There are two main intended ways to root the box.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 87:
+URL : https://tryhackme.com/r/room/overpass
+Description : What happens when some broke CompSci students make a password manager?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 88:
+URL : https://tryhackme.com/r/room/source
+Description : Exploit a recent vulnerability and hack Webmin, a web-based system configuration tool.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 89:
+URL : https://tryhackme.com/r/room/breakoutthecage1
+Description : Help Cage bring back his acting career and investigate the nefarious goings on of his agent!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 90:
+URL : https://tryhackme.com/r/room/lianyu
+Description : A beginner level security challenge
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 91:
+URL : https://tryhackme.com/r/room/anthem
+Description : Exploit a Windows machine in this beginner level challenge.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 92:
+URL : https://tryhackme.com/r/room/kothfoodctf
+Description : Practice Food KoTH alone, to get familiar with KoTH!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 93:
+URL : https://tryhackme.com/r/room/skynet
+Description : A vulnerable Terminator themed Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 94:
+URL : https://tryhackme.com/r/room/picklerick
+Description : A Rick and Morty CTF. Help turn Rick back into a human!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 95:
+URL : https://tryhackme.com/r/room/tonythetiger
+Description : Learn how to use a Java Serialisation attack in this boot-to-root
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 96:
+URL : https://tryhackme.com/r/room/yearoftherabbit
+Description : Time to enter the warren...
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 97:
+URL : https://tryhackme.com/r/room/ctf
+Description : Hack this machine and get the flag. There are lots of hints along the way and is perfect for beginners!
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 98:
+URL : https://tryhackme.com/r/room/tomghost
+Description : Identify recent vulnerabilities to try exploit the system or read files that you should not have access to.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 99:
+URL : https://tryhackme.com/r/room/jackofalltrades
+Description : Boot-to-root originally designed for Securi-Tay 2020
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 100:
+URL : https://tryhackme.com/r/room/madness
+Description : Will you be consumed by Madness?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 101:
+URL : https://tryhackme.com/r/room/ctfcollectionvol1
+Description : Sharpening up your CTF skill with the collection. The first volume is designed for beginner.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 102:
+URL : https://tryhackme.com/r/room/lazyadmin
+Description : Easy linux machine to practice your skills
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 103:
+URL : https://tryhackme.com/r/room/blueprint
+Description : Hack into this Windows machine and escalate your privileges to Administrator.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 104:
+URL : https://tryhackme.com/r/room/reverselfiles
+Description : Room for beginner Reverse Engineering CTF players
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 105:
+URL : https://tryhackme.com/r/room/ninjaskills
+Description : Practise your Linux skills and complete the challenges.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 106:
+URL : https://tryhackme.com/r/room/agentsudoctf
+Description : You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 107:
+URL : https://tryhackme.com/r/room/wgelctf
+Description : Can you exfiltrate the root flag?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 108:
+URL : https://tryhackme.com/r/room/bsidesgtdav
+Description : boot2root machine for FIT and bsides guatemala CTF
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 109:
+URL : https://tryhackme.com/r/room/bsidesgtlibrary
+Description : boot2root machine for FIT and bsides guatemala CTF
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 110:
+URL : https://tryhackme.com/r/room/bsidesgtthompson
+Description : boot2root machine for FIT and bsides guatemala CTF
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 111:
+URL : https://tryhackme.com/r/room/easyctf
+Description : Beginner level ctf
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 112:
+URL : https://tryhackme.com/r/room/bsidesgtanonforce
+Description : boot2root machine for FIT and bsides guatemala CTF
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 113:
+URL : https://tryhackme.com/r/room/basicpentestingjt
+Description : This is a machine that allows you to practise web app hacking and privilege escalation
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 114:
+URL : https://tryhackme.com/r/room/ignite
+Description : A new start-up has a few issues with their web server.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 115:
+URL : https://tryhackme.com/r/room/c4ptur3th3fl4g
+Description : A beginner level CTF challenge
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 116:
+URL : https://tryhackme.com/r/room/ohsint
+Description : Are you able to use open source intelligence to solve this challenge?
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 117:
+URL : https://tryhackme.com/r/room/toolsrus
+Description : Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 118:
+URL : https://tryhackme.com/r/room/investigatingwindows
+Description : A windows machine has been hacked, its your job to go investigate this windows machine and find clues to what the hacker might have done.
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 119:
+URL : https://tryhackme.com/r/room/heartbleed
+Description : SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 120:
+URL : https://tryhackme.com/r/room/crackthehash
+Description : Cracking hashes challenges
+Difficulty : Easy
+Access : Free
+Type : Challenge
+----------------------------------------

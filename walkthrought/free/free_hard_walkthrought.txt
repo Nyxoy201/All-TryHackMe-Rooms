@@ -1,0 +1,17 @@
+Total Rooms : 2
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/http2requestsmuggling
+Description : Exploit HTTP Request Smuggling in HTTP/2 environments.
+Difficulty : Hard
+Access : Free
+Type : Walkthrough
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/hackinghadoop
+Description : Learning about the security failings commonly seen in Hadoop
+Difficulty : Hard
+Access : Free
+Type : Walkthrough
+----------------------------------------

@@ -1,0 +1,346 @@
+Total Rooms : 49
+
+----------------------------------------
+Room 1 : Include
+URL : https://tryhackme.com/r/room/include
+Description : Use your server exploitation skills to take control of a web app.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 2 : Dead End?
+URL : https://tryhackme.com/r/room/deadend
+Description : You're given a memory image and a disk image - help us find the flag!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 3 : Whats Your Name?
+URL : https://tryhackme.com/r/room/whatsyourname
+Description : Utilise your client-side exploitation skills to take control of a web app.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 4 : TryHack3M: Subscribe
+URL : https://tryhackme.com/r/room/subscribe
+Description : Can you help Hack3M reach 3M subscribers?
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 5 : TryHack3M: TriCipher Summit
+URL : https://tryhackme.com/r/room/tryhack3mencryptionchallenge
+Description : Reach the apex of this triple-crypto challenge!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 6 : TryHack3M: Burg3r Bytes
+URL : https://tryhackme.com/r/room/burg3rbytes
+Description : They say these burgers are worth every penny. Can you buy one?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 7 : El Bandito
+URL : https://tryhackme.com/r/room/elbandito
+Description : Can you help capture El Bandito before he leaves the galaxy?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 8 : Summit
+URL : https://tryhackme.com/r/room/summit
+Description : Can you chase a simulated adversary up the Pyramid of Pain until they finally back down?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 9 : Exfilibur
+URL : https://tryhackme.com/r/room/exfilibur
+Description : You’ve been asked to exploit all the vulnerabilities present.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 10 : Dodge
+URL : https://tryhackme.com/r/room/dodge
+Description : Test your pivoting and network evasion skills.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 11 : DockMagic
+URL : https://tryhackme.com/r/room/dockmagic
+Description : In a land of magic, a wizard escaped from his confinement and embarks on a new adventure.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 12 : Boogeyman 3
+URL : https://tryhackme.com/r/room/boogeyman3
+Description : The Boogeyman emerges from the darkness again.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 13 : Boogeyman 2
+URL : https://tryhackme.com/r/room/boogeyman2
+Description : The Boogeyman is back. Are you still afraid of the Boogeyman?
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 14 : Mother's Secret
+URL : https://tryhackme.com/r/room/codeanalysis
+Description : Exploit flaws found in Mother's code to reveal its secrets.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 15 : Expose
+URL : https://tryhackme.com/r/room/expose
+Description : Use your red teaming knowledge to pwn a Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 16 : Intranet
+URL : https://tryhackme.com/r/room/securesolacodersintra
+Description : Welcome to the intranet!
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 17 : Services
+URL : https://tryhackme.com/r/room/services
+Description : At your service.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 18 : Devie
+URL : https://tryhackme.com/r/room/devie
+Description : A developer has asked you to do a vulnerability check on their system.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 19 : Disgruntled
+URL : https://tryhackme.com/r/room/disgruntled
+Description : Use your Linux forensics knowledge to investigate an incident.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 20 : Second
+URL : https://tryhackme.com/r/room/fearsecond
+Description : You Shall Fear The Second Order.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 21 : Investigating with Splunk
+URL : https://tryhackme.com/r/room/investigatingwithsplunk
+Description : Investigate anomalies using Splunk.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 22 : ItsyBitsy
+URL : https://tryhackme.com/r/room/itsybitsy
+Description : Put your ELK knowledge together and investigate an incident.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 23 : Benign
+URL : https://tryhackme.com/r/room/benign
+Description : Challenge room to investigate a compromised host.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 24 : DX1: Liberty Island
+URL : https://tryhackme.com/r/room/dx1libertyislandplde
+Description : Can you help the NSF get a foothold in UNATCO's system?
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 25 : Brute
+URL : https://tryhackme.com/r/room/ettubrute
+Description : You as well, Brutus?
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 26 : Zeek Exercises
+URL : https://tryhackme.com/r/room/zeekbroexercises
+Description : Put your Zeek skills into practice and analyse network traffic.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 27 : Biblioteca
+URL : https://tryhackme.com/r/room/biblioteca
+Description : Shhh. Be very very quiet, no shouting inside the biblioteca.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 28 : Snort Challenge - The Basics
+URL : https://tryhackme.com/r/room/snortchallenges1
+Description : Put your snort skills into practice and write snort rules to analyse live capture network traffic.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 29 : Napping
+URL : https://tryhackme.com/r/room/nappingis1337
+Description : Even Admins can fall asleep on the job
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 30 : The Greenholt Phish
+URL : https://tryhackme.com/r/room/phishingemails5fgjlzxc
+Description : Use the knowledge attained to analyze a malicious email.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 31 : Temple
+URL : https://tryhackme.com/r/room/temple
+Description : Can you gain access to the temple?
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 32 : Net Sec Challenge
+URL : https://tryhackme.com/r/room/netsecchallenge
+Description : Practice the skills you have learned in the Network Security module.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 33 : Vulnerability Capstone
+URL : https://tryhackme.com/r/room/vulnerabilitycapstone
+Description : Apply the knowledge gained throughout the Vulnerability Module in this challenge room.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 34 : AllSignsPoint2Pwnage
+URL : https://tryhackme.com/r/room/allsignspoint2pwnage
+Description : A room that contains a rushed Windows based Digital Sign system. Can you breach it?
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 35 : Keldagrim
+URL : https://tryhackme.com/r/room/keldagrim
+Description : The dwarves are hiding their gold!
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 36 : Osiris
+URL : https://tryhackme.com/r/room/osiris
+Description : Can you Quack it?
+Difficulty : Insane
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 37 : Res
+URL : https://tryhackme.com/r/room/res
+Description : Hack into a vulnerable database server with an in-memory data-structure in this semi-guided challenge!
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 38 : Ra 2
+URL : https://tryhackme.com/r/room/ra2
+Description : Just when they thought their hashes were safe... Ra 2 - The sequel!
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 39 : Set
+URL : https://tryhackme.com/r/room/set
+Description : Once again you find yourself on the internal network of the Windcorp Corporation.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 40 : Tempus Fugit Durius
+URL : https://tryhackme.com/r/room/tempusfugitdurius
+Description : The latin word Durius means "harder"
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 41 : Skynet
+URL : https://tryhackme.com/r/room/skynet
+Description : A vulnerable Terminator themed Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 42 : NoNameCTF
+URL : https://tryhackme.com/r/room/nonamectf
+Description : Buffer overflow, server-side template injection and more...
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 43 : Jack
+URL : https://tryhackme.com/r/room/jack
+Description : Compromise a web server running Wordpress, obtain a low privileged user and escalate your privileges to root using a Python module.
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 44 : Binex
+URL : https://tryhackme.com/r/room/binex
+Description : Escalate your privileges by exploiting vulnerable binaries.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 45 : Scripting
+URL : https://tryhackme.com/r/room/scripting
+Description : Learn basic scripting by solving some challenges!
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 46 : Brainstorm
+URL : https://tryhackme.com/r/room/brainstorm
+Description : Reverse engineer a chat program and write a script to exploit a Windows machine.
+Difficulty : Medium
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 47 : ToolsRus
+URL : https://tryhackme.com/r/room/toolsrus
+Description : Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 48 : HeartBleed
+URL : https://tryhackme.com/r/room/heartbleed
+Description : SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 49 : Jurassic Park
+URL : https://tryhackme.com/r/room/jurassicpark
+Description : A Jurassic Park CTF
+Difficulty : Hard
+Access : Premium
+Type : Challenge
+----------------------------------------

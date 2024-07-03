@@ -1,0 +1,689 @@
+Total Rooms : 98
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/iosanalysis
+Description : Discover the forensic artefacts present within iOS.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/tsharkthebasics
+Description : Learn the basics of TShark and take your protocol and PCAP analysis skills a step further.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/ldapinjection
+Description : Exploiting Lightweight Directory Access Protocol.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/dombasedattacks
+Description : Learn about DOM-based vulnerabilities that can be leveraged to stage client-side attacks!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/windowsnetworkanalysis
+Description : Discover networking artefacts using internal tooling on Windows.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/irdifficultiesandchallenges
+Description : Explore common DFIR obstacles and learn strategies for overcoming these challenges effectively.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/corsandsop
+Description : Cross-Origin Resource Sharing and Same-Origin Policy.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 8:
+URL : https://tryhackme.com/r/room/windowsuseraccountforensics
+Description : Learn where to search for artefacts associated with users and accounts.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 9:
+URL : https://tryhackme.com/r/room/summit
+Description : Can you chase a simulated adversary up the Pyramid of Pain until they finally back down?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 10:
+URL : https://tryhackme.com/r/room/introtok8s
+Description : An introduction to Kubernetes covering the basics of cluster creation and hardening.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 11:
+URL : https://tryhackme.com/r/room/containerhardening
+Description : Learn how to implement the mechanisms designed to secure your Docker containers.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 12:
+URL : https://tryhackme.com/r/room/containervulnerabilitiesDG
+Description : Learn how some of the common vulnerabilities found within Docker containers can be exploited.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 13:
+URL : https://tryhackme.com/r/room/loguniverse
+Description : Explore log files from various systems and learn how to carve data to adopt a course of action!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 14:
+URL : https://tryhackme.com/r/room/lessonslearned
+Description : A look into the fifth phase of the Incident Response framework: Lessons Learned.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 15:
+URL : https://tryhackme.com/r/room/eradicationandremediation
+Description : A look into the fourth phase of the Incident Response framework: Eradication, Remediation, and Recovery.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 16:
+URL : https://tryhackme.com/r/room/customalertrulesinwazuh
+Description : Learn how to create rules in Wazuh for your environment.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 17:
+URL : https://tryhackme.com/r/room/cybercrisismanagement
+Description : An introduction into cyber crisis management and how a CMT works.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 18:
+URL : https://tryhackme.com/r/room/loggingforaccountability
+Description : Learn about the role accountability plays in logging and incident response.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 19:
+URL : https://tryhackme.com/r/room/burpsuiteextensions
+Description : Learn how to use Extensions to broaden the functionality of Burp Suite.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 20:
+URL : https://tryhackme.com/r/room/burpsuiteom
+Description : Take a dive into some of Burp Suite's lesser-known modules.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 21:
+URL : https://tryhackme.com/r/room/codeanalysis
+Description : Exploit flaws found in Mother's code to reveal its secrets.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 22:
+URL : https://tryhackme.com/r/room/expose
+Description : Use your red teaming knowledge to pwn a Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 23:
+URL : https://tryhackme.com/r/room/seriskmanagement
+Description : Learn about framing, assessing, responding, and monitoring risk.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 24:
+URL : https://tryhackme.com/r/room/splunkdashboardsandreports
+Description : Creating Dashboards and Reports in Splunk.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 25:
+URL : https://tryhackme.com/r/room/intelcreationandcontainment
+Description : Learn what threat intelligence looks like, and some containment strategies used in the IR process.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 26:
+URL : https://tryhackme.com/r/room/traverse
+Description : Challenge your secure coding skills to restore a compromised website.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 27:
+URL : https://tryhackme.com/r/room/auditingandmonitoringse
+Description : Learn about auditing, monitoring, logging, and SIEM.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 28:
+URL : https://tryhackme.com/r/room/trooper
+Description : Use Cyber Threat Intelligence knowledge and skills to identify a threat based on a report.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 29:
+URL : https://tryhackme.com/r/room/virtualizationandcontainers
+Description : Introduction to common virtualization technologies and applications.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 30:
+URL : https://tryhackme.com/r/room/advancedelkqueries
+Description : Search large datasets efficiently with advanced queries in Kibana.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 31:
+URL : https://tryhackme.com/r/room/disgruntled
+Description : Use your Linux forensics knowledge to investigate an incident.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 32:
+URL : https://tryhackme.com/r/room/introductiontocloudsecurityc6
+Description : Learn fundamental concepts regarding securing a cloud environment.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 33:
+URL : https://tryhackme.com/r/room/dependencymanagement
+Description : Learn about the security concerns regarding dependency management in the automated DevOps pipeline.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 34:
+URL : https://tryhackme.com/r/room/osqueryf8
+Description : Let's cover the basics of Osquery.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 35:
+URL : https://tryhackme.com/r/room/splunk101
+Description : Learn the basics of Splunk.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 36:
+URL : https://tryhackme.com/r/room/diamondmodelrmuwwg42
+Description : Learn about the four core features of the Diamond Model of Intrusion Analysis: adversary, infrastructure, capability, and victim.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 37:
+URL : https://tryhackme.com/r/room/microsoftwindowshardening
+Description : To learn key attack vectors used by hackers and how to protect yourself using different hardening techniques.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 38:
+URL : https://tryhackme.com/r/room/enumerationpe
+Description : This room is an introduction to enumeration when approaching an unknown corporate environment.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 39:
+URL : https://tryhackme.com/r/room/wiresharkpacketoperations
+Description : Learn the fundamentals of packet analysis with Wireshark and how to find the needle in the haystack!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 40:
+URL : https://tryhackme.com/r/room/wiresharkthebasics
+Description : Learn the basics of Wireshark and how to analyse protocols and PCAPs.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 41:
+URL : https://tryhackme.com/r/room/networkminer
+Description : Learn how to use NetworkMiner to analyse recorded traffic files and practice network forensics activities.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 42:
+URL : https://tryhackme.com/r/room/securityoperations
+Description : Learn about Security Operations Center (SOC): its responsibilities, services, and data sources.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 43:
+URL : https://tryhackme.com/r/room/intronetworksecurity
+Description : Learn about network security, understand attack methodology, and practice hacking into a target server.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 44:
+URL : https://tryhackme.com/r/room/operatingsystemsecurity
+Description : This room introduces users to operating system security and demonstrates SSH authentication on Linux.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 45:
+URL : https://tryhackme.com/r/room/thelayoftheland
+Description : Learn about and get hands-on with common technologies and security products used in corporate environments; both host and network-based security solutions are covered.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 46:
+URL : https://tryhackme.com/r/room/phishingemails3tryoe
+Description : Learn the tools used to aid an analyst to investigate suspicious emails.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 47:
+URL : https://tryhackme.com/r/room/phishingemails4gkxh
+Description : Learn how to defend against phishing emails.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 48:
+URL : https://tryhackme.com/r/room/phishingemails5fgjlzxc
+Description : Use the knowledge attained to analyze a malicious email.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 49:
+URL : https://tryhackme.com/r/room/redteamrecon
+Description : Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 50:
+URL : https://tryhackme.com/r/room/protocolsandservers
+Description : Learn about common protocols such as HTTP, FTP, POP3, SMTP and IMAP, along with related insecurities.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 51:
+URL : https://tryhackme.com/r/room/nmap02
+Description : Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 52:
+URL : https://tryhackme.com/r/room/xss
+Description : Learn how to detect and exploit XSS vulnerabilities, giving you control of other visitor's browsers.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 53:
+URL : https://tryhackme.com/r/room/idor
+Description : Learn how to find and exploit IDOR vulnerabilities in a web application giving you access to data that you shouldn't have.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 54:
+URL : https://tryhackme.com/r/room/oscommandinjection
+Description : Learn about a vulnerability allowing you to execute commands through a vulnerable app, and its remediations.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 55:
+URL : https://tryhackme.com/r/room/contentdiscovery
+Description : Learn the various ways of discovering hidden or private content on a webserver that could lead to new vulnerabilities.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 56:
+URL : https://tryhackme.com/r/room/meterpreter
+Description : Take a deep dive into Meterpreter, and see how in-memory payloads can be used for post-exploitation.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 57:
+URL : https://tryhackme.com/r/room/metasploitexploitation
+Description : Using Metasploit for scanning, vulnerability assessment and exploitation.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 58:
+URL : https://tryhackme.com/r/room/vulnerabilitycapstone
+Description : Apply the knowledge gained throughout the Vulnerability Module in this challenge room.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 59:
+URL : https://tryhackme.com/r/room/exploitingavulnerabilityv2
+Description : Learn about some of the tools, techniques and resources to exploit vulnerabilities
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 60:
+URL : https://tryhackme.com/r/room/subdomainenumeration
+Description : Learn the various ways of discovering subdomains to expand your attack surface of a target.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 61:
+URL : https://tryhackme.com/r/room/ssrfqi
+Description : Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 62:
+URL : https://tryhackme.com/r/room/authenticationbypass
+Description : Learn how to defeat logins and other authentication mechanisms to allow you access to unpermitted areas.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 63:
+URL : https://tryhackme.com/r/room/walkinganapplication
+Description : Manually review a web application for security issues using only your browsers developer tools. Hacking with just your browser, no tools or scripts.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 64:
+URL : https://tryhackme.com/r/room/pythonforcybersecurity
+Description : Python is probably the most widely used and most convenient scripting language in cybersecurity. This room covers real examples of Python scripts including hash cracking, key logging, enumeration and scanning.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 65:
+URL : https://tryhackme.com/r/room/btautopsye0
+Description : Learn how to use Autopsy to investigate artefacts from a disk image. Use your knowledge to investigate an employee who is being accused of leaking private company data.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 66:
+URL : https://tryhackme.com/r/room/webenumerationv2
+Description : Learn the methodology of enumerating websites by using tools such as Gobuster, Nikto and WPScan
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 67:
+URL : https://tryhackme.com/r/room/btsysinternalssg
+Description : Learn to use the Sysinternals tools to analyze Windows systems or applications.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 68:
+URL : https://tryhackme.com/r/room/sysmon
+Description : Learn how to utilize Sysmon to monitor and log your endpoints and environments.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 69:
+URL : https://tryhackme.com/r/room/johntheripper0
+Description : Learn how to use John the Ripper - An extremely powerful and adaptable hash cracking tool
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 70:
+URL : https://tryhackme.com/r/room/btwindowsinternals
+Description : Explore the core processes within a Windows operating system and understand what normal behaviour is. This foundational knowledge will help you identify malicious processes running on an endpoint!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 71:
+URL : https://tryhackme.com/r/room/yara
+Description : Learn the applications and language that is Yara for everything threat intelligence, forensics, and threat hunting!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 72:
+URL : https://tryhackme.com/r/room/hardeningbasicspart2
+Description : Continue learning about hardening
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 73:
+URL : https://tryhackme.com/r/room/hardeningbasicspart1
+Description : Learn how to harden an Ubuntu Server! Covers a wide range of topics (Part 1)
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 74:
+URL : https://tryhackme.com/r/room/lle
+Description : Learn to efficiently enumerate a linux machine and identify possible weaknesses
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 75:
+URL : https://tryhackme.com/r/room/wireshark
+Description : Learn the basics of Wireshark and how to analyze various protocols and PCAPs
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 76:
+URL : https://tryhackme.com/r/room/nislinuxone
+Description : Enhance your Linux knowledge with this beginner friendly room!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 77:
+URL : https://tryhackme.com/r/room/introtoshells
+Description : An introduction to sending and receiving (reverse/bind) shells when exploiting target machines.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 78:
+URL : https://tryhackme.com/r/room/res
+Description : Hack into a vulnerable database server with an in-memory data-structure in this semi-guided challenge!
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 79:
+URL : https://tryhackme.com/r/room/iosforensics
+Description : Learn about the data acquisition techniques and tools used in iOS device digital forensics!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 80:
+URL : https://tryhackme.com/r/room/uploadvulns
+Description : Tutorial room exploring some basic file-upload vulnerabilities in websites
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 81:
+URL : https://tryhackme.com/r/room/attackingkerberos
+Description : Learn how to abuse the Kerberos Ticket Granting Service inside of a Windows Domain Controller
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 82:
+URL : https://tryhackme.com/r/room/corp
+Description : Bypass Windows Applocker and escalate your privileges. You will learn about kerberoasting, evading AV, bypassing applocker and escalating your privileges on a Windows system.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 83:
+URL : https://tryhackme.com/r/room/eritsecurusi
+Description : Learn to exploit the BoltCMS software by researching exploit-db.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 84:
+URL : https://tryhackme.com/r/room/powershell
+Description : Learn the basics of PowerShell and PowerShell Scripting
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 85:
+URL : https://tryhackme.com/r/room/skynet
+Description : A vulnerable Terminator themed Linux machine.
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 86:
+URL : https://tryhackme.com/r/room/malstrings
+Description : Investigating "strings" within an application and why these values are important!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 87:
+URL : https://tryhackme.com/r/room/malremnuxv2
+Description : A revitalised, hands-on showcase involving analysing malicious macro's, PDF's and Memory forensics of a victim of Jigsaw Ransomware; all done using the Linux-based REMnux toolset apart of my Malware Analysis series
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 88:
+URL : https://tryhackme.com/r/room/steelmountain
+Description : Hack into a Mr. Robot themed Windows machine. Use metasploit for initial access, utilise powershell for Windows privilege escalation enumeration and learn a new technique to get Administrator access.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 89:
+URL : https://tryhackme.com/r/room/commonlinuxprivesc
+Description : A room explaining common Linux privilege escalation
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 90:
+URL : https://tryhackme.com/r/room/windowsbase
+Description : A windows machine with SysInternals, Cain, BurpSuite, Wireshark, OWASP ZAP and other security tools on.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 91:
+URL : https://tryhackme.com/r/room/kali
+Description : Access your own Kali Machine
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 92:
+URL : https://tryhackme.com/r/room/gamezone
+Description : Learn to hack into this machine. Understand how to use SQLMap, crack some passwords, reveal services using a reverse SSH tunnel and escalate your privileges to root!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 93:
+URL : https://tryhackme.com/r/room/avengers
+Description : Learn to hack into Tony Stark's machine! You will enumerate the machine, bypass a login portal via SQL injection and gain root access by command injection.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 94:
+URL : https://tryhackme.com/r/room/alfred
+Description : Exploit Jenkins to gain an initial shell, then escalate your privileges by exploiting Windows authentication tokens.
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 95:
+URL : https://tryhackme.com/r/room/bebop
+Description : Who thought making a flying shell was a good idea?
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 96:
+URL : https://tryhackme.com/r/room/bof1
+Description : Learn how to get started with basic Buffer Overflows!
+Difficulty : Easy
+Access : Premium
+Type : Walkthrough
+----------------------------------------
+Room 97:
+URL : https://tryhackme.com/r/room/toolsrus
+Description : Practise using tools such as dirbuster, hydra, nmap, nikto and metasploit
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------
+Room 98:
+URL : https://tryhackme.com/r/room/heartbleed
+Description : SSL issues are still lurking in the wild! Can you exploit this web servers OpenSSL?
+Difficulty : Easy
+Access : Premium
+Type : Challenge
+----------------------------------------

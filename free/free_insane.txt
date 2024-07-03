@@ -1,0 +1,52 @@
+Total Rooms : 7
+
+----------------------------------------
+Room 1:
+URL : https://tryhackme.com/r/room/armageddon2r
+Description : Assist the Yeti in breaching the cyber police perimeter!
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 2:
+URL : https://tryhackme.com/r/room/busyvimfrosteau
+Description : Stay frosty!
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 3:
+URL : https://tryhackme.com/r/room/takedown
+Description : We have reason to believe a corporate webserver has been compromised by RISOTTO GROUP. Cyber interdiction is authorized for this operation. Find their teamserver and take it down.
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 4:
+URL : https://tryhackme.com/r/room/crocccrew
+Description : Crocc Crew has created a backdoor on a Cooctus Corp Domain Controller. We're calling in the experts to find the real back door!
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 5:
+URL : https://tryhackme.com/r/room/inacave
+Description : A room with some ctf elements inspired in text based RPGs
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 6:
+URL : https://tryhackme.com/r/room/theseus
+Description : The first installment of the SuitGuy series of very hard challenges.
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
+Room 7:
+URL : https://tryhackme.com/r/room/cct2019
+Description : Legacy challenges from the US Navy Cyber Competition Team 2019 Assessment sponsored by US TENTH Fleet
+Difficulty : Insane
+Access : Free
+Type : Challenge
+----------------------------------------
